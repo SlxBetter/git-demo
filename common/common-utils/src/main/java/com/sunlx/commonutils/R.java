@@ -2,6 +2,7 @@ package com.sunlx.commonutils;
 //test git
 //test git 3
 //master branch
+//new branch
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
