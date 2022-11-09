@@ -1,0 +1,8 @@
+spring:
+  application:
+  #服务名
+    name: service-edu
+  #enviroment setting :dev  \ test \ prod
+  profiles:
+    active: dev
+
